@@ -15,13 +15,24 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,py,matlab" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,nodejs,html,css,express,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlite,postgresql,intellij,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,heroku,vercel,atom,vscode,visualstudio,androidstudio" />
   </a>
 </p>
 <!--
