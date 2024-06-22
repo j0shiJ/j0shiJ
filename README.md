@@ -1,5 +1,23 @@
-## Hi there 👋
+## Hi 👋 Jayesh here!
 
+
+
+
+
+## 😄 About Me
+- 🎓 I am Electronics and Communication Engineering Grad From IIT Guwahati
+- 🌱 I am Fullstack developer with honed skills in Flutter, Node.js, Spring-boot.
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+
+
+## 💼 Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,py" />
+  </a>
+</p>
 <!--
 **j0shiJ/j0shiJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
