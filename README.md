@@ -6,7 +6,8 @@
 
 ## 😄 About Me
 - 🎓 I am Electronics and Communication Engineering Grad From IIT Guwahati
-- 🌱 I am Fullstack developer with honed skills in Flutter, Node.js, Spring-boot.
+- 🌱 I am Fullstack developer with honed skills in Flutter, Node.js, Spring-boot, Flask, Go-kit.
+- 🤖 I am also proficient in Machine learning Algos and libraries such a Pandas, Numpy, Scikit-learn, Tensorflow, Keras.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
